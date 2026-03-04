@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Anuj</h1>
+<h1 align="center">👋 Hey, I'm 0xJaadu</h1>
 <p align="center">
   <strong>Smart Contract Developer | Fullstack Web3 Engineer</strong>
 </p>
