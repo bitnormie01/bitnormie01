@@ -28,8 +28,7 @@
 
 ---
 
-### 🚀 Projects in Progress
-* 🪙 **Token Minting GUI (ERC-20)** – A token minter web page, where user can create their own tokens, transfer the tokens, allowance functionality.
+
 
 
 ---
